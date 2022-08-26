@@ -13,7 +13,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Front End
+### 🎲 Rodando o Front End em desenvolvimento 
 
 ```bash
 # Clone este repositório
@@ -30,6 +30,9 @@ $ npm start
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
+
+### 🎲 Rodando o Front End em produção  
+Acesse <https://gleeful-griffin-cc49ed.netlify.app/>
 
 ### 🛠 Tecnologias
 
