@@ -10,6 +10,7 @@
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Node.js](https://nodejs.org/en/).
+
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 🎲 Rodando o Front End
@@ -39,4 +40,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [JavaScript](https://www.javascript.com/)
 - [MongoDB](https://www.mongodb.com/pt-br)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kerem-jovielly/)](https://www.linkedin.com/in/kerem-jovielly/)
+[![Linkedin Badge](https://img.shields.io/badge/-Kerem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kerem-jovielly/)](https://www.linkedin.com/in/kerem-jovielly/)
