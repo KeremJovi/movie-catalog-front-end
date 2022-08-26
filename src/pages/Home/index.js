@@ -4,8 +4,6 @@ import { Link } from 'react-router-dom';
 import { getMovies, updateDatabase } from '../../services/requests/moves';
 
 function Home() {
-  //const urlApi = process.env.URI;
-
   const [moviesData, setMoviesData] = useState();
   const [loading, setLoading] = useState(false);
 
@@ -53,8 +51,8 @@ function Home() {
         </button>
       </header>
 
-      <h1>Catálogo de Filmes</h1>
-      {loading && <p>Carregando...</p>}
+      <h1>Animao</h1>
+      {loading && <p className="loading">Carregando...</p>}
       <List>
         {moviesData?.posts.map((movie) => {
           return (

@@ -22,7 +22,7 @@ export const Container = styled.div`
     align-items: flex-start;
     margin-left: 2rem;
     max-width: 50%;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Noto Serif', serif;
   }
 
   button {
@@ -31,7 +31,6 @@ export const Container = styled.div`
     left: 1rem;
     margin: 2rem auto;
     padding: 1.2rem 1.5rem;
-    font-family: 'Ubuntu', sans-serif;
     border-radius: 180px;
     border: 0;
     transition: all 0.5s;

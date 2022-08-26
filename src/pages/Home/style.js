@@ -22,8 +22,14 @@ export const Container = styled.div`
   h1 {
     text-align: center;
     margin: 4rem 0;
-    font-family: sans-serif;
-    font-size: 300%;
+    font-family: 'Lobster', cursive;
+    font-size: 400%;
+  }
+  .loading {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 120%;
   }
 
   div {
@@ -88,7 +94,7 @@ export const Movie = styled.li`
     font-size: 175%;
     align-items: center;
     text-align: center;
-    font-family: 'Bree Serif', serif;
+    font-family: 'Noto Serif', serif;
     margin: 0 0 10px 0;
   }
 `;
